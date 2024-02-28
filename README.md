@@ -19,7 +19,7 @@ To set up the project environment:
 4. Add a `dataset` folder to the main directory.
 5. Add in the datasets
 
-- You will need \_**\_ from \_\_\_**
+- You will need data.csv from website
 
 ## Usage
 
@@ -29,10 +29,8 @@ To set up the project environment:
 
 ## Analysis Techniques
 
-Each technique is demonstrated with appropriate visualizations using Seaborn and/or Matplotlib.
-
 ## Important Links
 
-Report: [Google Docs](https://docs.google.com/document/d/1_uHO2i2JKADDBGFWtBEDdWbB4L5rg-0Mrkmxr2xr-Sw/edit?usp=sharing)
+Report: [Google Docs](https://docs.google.com/document/d/1wwX_nVmKDYi-W5RsYOWcFjjAAqXKwHh450L_v41HMog/edit?usp=sharing)
 
-Presentation Slides: [Google Slides](https://docs.google.com/presentation/d/1kLN96cSxOZiTaoHfYGIN81VMdP-QEhJb0ISpURfhslg/edit?usp=sharing)
+Presentation Slides: [Google Slides](https://docs.google.com/presentation/d/1qbhJwpa_EfH40qB5SR9bxwSXFNxnFkuWd2Kg1XFHAzw/edit?usp=sharing)
